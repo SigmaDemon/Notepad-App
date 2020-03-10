@@ -1,0 +1,10 @@
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.formAbout.resources
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\sebas\Desktop\Self-Developed C# Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
